@@ -1,2 +1,2 @@
 # Predicting-Movie-Rental-Durations
-Predicting Movie Rental Durations
+Tuning a hyperparameters project
